@@ -1,1 +1,8 @@
-
+<?xml version='1.0' encoding='WINDOWS-1251'?>
+<FileList DataVersion="1" Date="43181">
+  <File>
+    <Zip Name="Lenin.zip" Size="2055" Date="39947"/>
+    <Pmz Name="Lenin.pmz" Size="1825" Date="39906"/>
+    <City Name="Lininsk" CityName="Лининск" Country="Маинляндия"/>
+  </File>
+  </FileList>
