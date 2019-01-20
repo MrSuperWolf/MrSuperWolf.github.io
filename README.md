@@ -1,5 +1,5 @@
-# MrSuperWolf.github.io
+# Склад Макса
 Что-то для pMetro
 
 [Скачать последнюю схему Лининска](https://mrsuperwolf.github.io/download/Lenin.zip)
-[1]:/map.png
+![Схема метро]:(mrsuperwolf.github.io/map.png)
