@@ -5,4 +5,9 @@
     <Pmz Name="Lenin.pmz" Size="2156" Date="43485"/>
     <City Name="Lininsk" CityName="Lininsk" Country="Mineland"/>
   </File>
+    <File>
+    <Zip Name="rpd.zip" Size="1961" Date="43487"/>
+    <Pmz Name="rpd.pmz" Size="2053" Date="43487"/>
+    <City Name="RPD" CityName="Russensk" Country="Russia"/>
+  </File>
   </FileList>
