@@ -19,11 +19,15 @@
     <Zip Name="Lenin140119.zip" Size="2763" Date="43479"/>
     <Pmz Name="Lenin140119.pmz" Size="2763" Date="43479"/>
     <City Name="Lininsk 14.01.19" CityName="Lininsk 14.01.19" Country="Mineland"/>
+      </File>
    <File>
     <Zip Name="rpd220119.zip" Size="1961" Date="43487"/>
     <Pmz Name="rpd220119.pmz" Size="2053" Date="43487"/>
-    <City Name="RPD" CityName="Russensk 22.01.19" Country="Russia"/>
-  </File>
+    <City Name="RPD 23.01.19" CityName="Russensk 22.01.19" Country="Russia"/>
     </File>
+  <File>
+    <Zip Name="rpd230119.zip" Size="1550" Date="43488"/>
+    <Pmz Name="rpd230119.pmz" Size="1588" Date="43488"/>
+    <City Name="RPD 23.01.19" CityName="Russensk 23.01.19" Country="Russia"/>
   </File>
   </FileList>
