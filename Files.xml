@@ -6,8 +6,8 @@
     <City Name="Lininsk" CityName="Lininsk" Country="Mineland"/>
   </File>
     <File>
-    <Zip Name="rpd.zip" Size="1961" Date="43487"/>
-    <Pmz Name="rpd.pmz" Size="2053" Date="43487"/>
+    <Zip Name="rpd.zip" Size="1550" Date="43488"/>
+    <Pmz Name="rpd.pmz" Size="1588" Date="43488"/>
     <City Name="RPD" CityName="Russensk" Country="Russia"/>
   </File>
   </FileList>
