@@ -14,7 +14,6 @@
     <Zip Name="Moscow.zip" Size="1550" Date="43488"/>
     <Pmz Name="Moscow.pmz" Size="1588" Date="43488"/>
     <City Name="Moscow" CityName="Moscow" Country="Russia"/>
-  </File>
     </File>
     <File>
     <Zip Name="TambovMetro.zip" Size="1860" Date="43557"/>
