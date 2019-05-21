@@ -33,6 +33,6 @@
    <File>
     <Zip Name="Moscow_Next_ST.zip" Size="16000" Date="43615"/>
     <Pmz Name="Moscow_Next_ST.pmz" Size="17000" Date="43615"/>
-    <City Name="Moscow_Next" CityName="Moscow_Next" Country="Russia"/>
+    <City Name="Moscow_Next_ST" CityName="Moscow_Next_ST" Country="Russia"/>
   </File>
   </FileList>
