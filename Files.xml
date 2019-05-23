@@ -26,8 +26,8 @@
     <City Name="TambovRailbus" CityName="TambovRailbus" Country="Russia"/>
   </File>
     <File>
-    <Zip Name="Moscow_Next.zip" Size="16000" Date="43607"/>
-    <Pmz Name="Moscow_Next.pmz" Size="17000" Date="43607"/>
+    <Zip Name="Moscow_Next.zip" Size="16000" Date="43608"/>
+    <Pmz Name="Moscow_Next.pmz" Size="17000" Date="43608"/>
     <City Name="Moscow_Next" CityName="Moscow_Next" Country="Russia"/>
   </File>
    <File>
