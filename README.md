@@ -7,6 +7,4 @@
 
 [Скачать схему РПД](https://mrsuperwolf.github.io/download/rpd.zip)
 
-
-[Архив схем](https://mrsuperwolf.github.io/backup/)
-![Схема метро](map.png)
+[Скачать схему Moscow_Next](https://mrsuperwolf.github.io/download/Moscow_Next.zip)
