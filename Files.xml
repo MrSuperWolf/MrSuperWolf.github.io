@@ -45,4 +45,9 @@
     <Pmz Name="Moscow_ZelBuses.pmz" Size="22000" Date="43624"/>
     <City Name="Moscow_ZelBuses" CityName="Moscow_ZelBuses" Country="Russia"/>
   </File>
+  <File>
+    <Zip Name="Moscow_History.zip" Size="600000" Date="43624"/>
+    <Pmz Name="Moscow_History.pmz" Size="600000" Date="43624"/>
+    <City Name="Moscow_History" CityName="Moscow_History" Country="Russia"/>
+  </File>
   </FileList>
