@@ -36,8 +36,8 @@
     <City Name="Moscow_Next_ST" CityName="Moscow_Next_ST" Country="Russia"/>
   </File>
    <File>
-    <Zip Name="Moscow_Mobile.zip" Size="659000" Date="43636"/>
-    <Pmz Name="Moscow_Mobile.pmz" Size="659000" Date="43636"/>
+    <Zip Name="Moscow_Mobile.zip" Size="659000" Date="43763"/>
+    <Pmz Name="Moscow_Mobile.pmz" Size="659000" Date="43763"/>
     <City Name="Moscow_Mobile" CityName="Moscow_Mobile" Country="Russia"/>
   </File>
   <File>
