@@ -11,8 +11,8 @@
     <City Name="RPD" CityName="Russensk" Country="Russia"/>
   </File>
     <File>
-    <Zip Name="Moscow.zip" Size="653000" Date="43636"/>
-    <Pmz Name="Moscow.pmz" Size="653000" Date="43636"/>
+    <Zip Name="Moscow.zip" Size="658000" Date="43670"/>
+    <Pmz Name="Moscow.pmz" Size="658000" Date="43670"/>
     <City Name="Moscow" CityName="Moscow" Country="Russia"/>
     </File>
     <File>
