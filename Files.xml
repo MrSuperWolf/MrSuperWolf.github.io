@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<FileList DataVersion="1" Date="43763">
+<FileList DataVersion="1" Date="43822">
   <File>
     <Zip Name="Lenin.zip" Size="2324" Date="43489"/>
     <Pmz Name="Lenin.pmz" Size="2426" Date="43489"/>
@@ -36,8 +36,8 @@
     <City Name="Moscow_Next_ST" CityName="Moscow_Next_ST" Country="Russia"/>
   </File>
    <File>
-    <Zip Name="Moscow_Mobile.zip" Size="659000" Date="43763"/>
-    <Pmz Name="Moscow_Mobile.pmz" Size="659000" Date="43763"/>
+    <Zip Name="Moscow_Mobile.zip" Size="703000" Date="43822"/>
+    <Pmz Name="Moscow_Mobile.pmz" Size="703000" Date="43822"/>
     <City Name="Moscow_Mobile" CityName="Moscow_Mobile" Country="Russia"/>
   </File>
   <File>
